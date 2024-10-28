@@ -1,0 +1,4909 @@
+
+[
+    {
+        "timestamp": "2024-04-23T14:40:55.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 10,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 7,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:41:10.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 9,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 6,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:41:26.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 9,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 6,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:41:41.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 9,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 6,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:41:56.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 10,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 6,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12587,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:42:11.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 10,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 6,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:42:26.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 11,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 7,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:42:41.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 10,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 7,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:42:56.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 10,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 7,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:43:11.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 10,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 7,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:43:26.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 10,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 7,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:43:41.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 10,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 7,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:43:56.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 11,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 7,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:44:11.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 11,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 8,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:44:26.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 10,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 7,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:44:42.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 10,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 7,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:44:57.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 11,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 8,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:45:12.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 11,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 8,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:45:27.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 11,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 8,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:45:42.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 11,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 8,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:45:56.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 11,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 8,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:46:11.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 11,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 8,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:46:26.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 10,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 7,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:46:41.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 10,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 7,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:46:56.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 11,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 7,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:47:11.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 10,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 6,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:47:26.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 10,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 6,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:47:41.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 10,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 7,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:47:56.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 10,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 7,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:48:12.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 11,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 8,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:48:27.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 11,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 8,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:48:42.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 11,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 7,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:48:57.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 11,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 8,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:49:12.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 11,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 8,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:49:27.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 11,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 8,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:49:42.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 11,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 8,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:49:57.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 11,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 8,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:50:12.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 10,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 7,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:50:27.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 10,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 7,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:50:42.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 11,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 7,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:50:57.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 10,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 7,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:51:12.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 617,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 11,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 7,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:51:27.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 627,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 11,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 8,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:51:42.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 627,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 11,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 8,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-23T14:51:57.000Z",
+        "lat": 33.8410533,
+        "lon": -5.5532099,
+        "altitude": 627,
+        "ioElements": [
+            {
+                "id": 239,
+                "value": 0,
+                "label": "Ignition",
+                "valueHuman": "No"
+            },
+            {
+                "id": 240,
+                "value": 0,
+                "label": "Movement",
+                "valueHuman": "No"
+            },
+            {
+                "id": 21,
+                "value": 1,
+                "label": "GSM Signal Strength",
+                "valueHuman": "1"
+            },
+            {
+                "id": 200,
+                "value": 0,
+                "label": "Sleep Mode",
+                "valueHuman": "No Sleep"
+            },
+            {
+                "id": 69,
+                "value": 1,
+                "label": "GNSS Status",
+                "valueHuman": "ON with fix"
+            },
+            {
+                "id": 181,
+                "value": 11,
+                "label": "PDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 182,
+                "value": 8,
+                "label": "HDOP",
+                "valueHuman": ""
+            },
+            {
+                "id": 66,
+                "value": 12590,
+                "label": "Ext Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 24,
+                "value": 0,
+                "label": "Speed",
+                "dimension": "km/h",
+                "valueHuman": ""
+            },
+            {
+                "id": 67,
+                "value": 4115,
+                "label": "Battery Voltage",
+                "dimension": "mV",
+                "valueHuman": ""
+            },
+            {
+                "id": 68,
+                "value": 0,
+                "label": "Battery Current",
+                "dimension": "mA",
+                "valueHuman": ""
+            },
+            {
+                "id": 13,
+                "value": 124,
+                "label": "Average Fuel Use",
+                "dimension": "L / 100 km",
+                "valueHuman": ""
+            },
+            {
+                "id": 15,
+                "value": 1000,
+                "label": "Eco Score",
+                "valueHuman": ""
+            },
+            {
+                "id": 241,
+                "value": 60402,
+                "label": "GSM Operator",
+                "valueHuman": ""
+            },
+            {
+                "id": 199,
+                "value": 0,
+                "label": "Trip Odometer",
+                "valueHuman": ""
+            },
+            {
+                "id": 16,
+                "value": 1690515,
+                "label": "Total Odometer",
+                "valueHuman": ""
+            }
+        ]
+    }
+]
+    
